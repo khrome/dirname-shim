@@ -3,7 +3,7 @@
     "homepage": "https://github.com/khrome/dirname-shim",
     "version": "1.0.0",
     "main": "shim.js",
-    "keywords": ['dirname', 'browser', 'stacktrace', 'UMD', 'webpack'],
+    "keywords": ["dirname", "browser", "stacktrace", "UMD", "webpack"],
     "description": "UMD __dirname and __filename browser shim",
     "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
     "contributors": [],
